@@ -15,10 +15,16 @@ webサイトを作ってます
 CとPythonもちょっとだけやります
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,cloudflare,html,css,js,nodejs,c,py" />
+    <img src="https://skillicons.dev/icons?theme=light&perline=6&i=html,css,js,nodejs,c,py,git,docker,cloudflare,arduino,raspberrypi,replit" />
   </a>
 </p>
 
 ## other
-[![KsanJP's GitHub stats](https://github-readme-stats.vercel.app/api?username=KsanJP)](https://github.com/KsanJP/KsanJP)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KsanJP&layout=compact)](https://github.com/KsanJP/KsanJP)
+[![KsanJP's GitHub stats](https://github-readme-stats.vercel.app/api?username=KsanJP)](https://github.com/KsanJP/KsanJP)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KsanJP)](https://github.com/KsanJP/KsanJP)
+<!--
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=KsanJP" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsanJP&layout=compact&show_icons=true" />
+</p>
+-->
