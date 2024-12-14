@@ -28,3 +28,5 @@ CとPythonもちょっとだけやります
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KsanJP&layout=compact&show_icons=true" />
 </p>
 -->
+
+[![typograssy](https://typograssy.deno.dev/api?text=Ksan!%20JP&comment=@KsanJP&frame=ffffff)](https://github.com/KsanJP/KsanJP)
